@@ -5,25 +5,25 @@ export default function Catalog() {
 
   const projects = [
     {
-      title: "",
+      title: "Pomi Timer",
       description: "A Pomodoro timer website with a built in to-do list and lofi playlist.",
       image: "OIG.jpeg",
-      link: "https://seulgigigi.github.io/pomi/",
+      link: "https://alb80degrees.github.io/pomi/",
       category: "HTML, CSS, Javascript"
     },
     {
-      title: "",
+      title: "FiLaro",
       description: "A Filipino language learning app, gamified to cater to students.",
       image: "filaro512.png",
-      link: "https://seulgigigi.github.io/FiLaro/",
+      link: "https://alb80degrees.github.io/FiLaro/",
       category: "HTML, CSS, Javascript"
     },
     {
-      title: "",
+      title: "Kyle's Silog Inventory",
       description: "An inventory system prototype built in Excel for a small silog business.",
       image: "invent.jpg",
       link: "https://docs.google.com/document/d/1_Wc_NlU_itlAlvMNNS28KFwF9AU-gjza/edit?usp=sharing&ouid=105250311011582006818&rtpof=true&sd=true",
-      category: "Visual Basic"
+      category: "Visual Basic, Excel"
     }
   ];
 
